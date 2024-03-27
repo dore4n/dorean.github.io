@@ -22,6 +22,7 @@ function ExperienceSection() {
           <ul className="empresa-habilidades">
             <li>React</li>
             <li>Python</li>
+            <li>API Restful</li>
             <li>UI Design</li>
             <li>UX Design</li>
             <li>Figma</li>
@@ -31,13 +32,13 @@ function ExperienceSection() {
         <div className="empresa">
           <span className="empresa-ano">2022 - 2024</span>
           <h3 className="empresa-titulo">CENUV - Diretoria de TI</h3>
-          <span className="empresa-titulo">Desenvolvedor FullStack</span>
+          <span className="empresa-titulo">Desenvolvedor de Software Júnior</span>
           <p className="empresa-texto">Implementação de novas features, análise de código, manutenção de aplicativos e
             confecção de testes unitários de aplicações SaaS. Acompanhamento de testes integrados.</p>
           <ul className="empresa-habilidades">
             <li>React</li>
-            <li>Java</li>
             <li>Vue</li>
+            <li>Java</li>
             <li>SpringBoot</li>
             <li>AWS</li>
             <li>UI Design</li>

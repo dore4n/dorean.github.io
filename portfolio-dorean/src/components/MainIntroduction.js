@@ -7,8 +7,8 @@ function MainIntroduction() {
       <div className="introducao">
         <img src={fotoIntro} alt="foto da intro possuíndo vetorização de imagem do engenheiro e design responsável pela landing page" />
         <div>
-          <h1>Desenvolvedor<br /> FullStack</h1>
-          <p>Localizado em Brasília</p>
+          <h1>Software Engineer</h1>
+          <p>Eu sou um entusiasta da tecnologia e desenvolvimento de sistemas, com sede de aprendizado e conquistas.</p>
         </div>
       </div>
     </main>
