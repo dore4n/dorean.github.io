@@ -3,7 +3,7 @@ import fotoIntro from "../img/fotoIntro.png";
 
 function MainIntroduction() {
   return (
-    <main className="introducao1">
+    <main id="mainIntroduction" className="introducao1">
       <div className="introducao">
         <img src={fotoIntro} alt="foto da intro possuíndo vetorização de imagem do engenheiro e design responsável pela landing page" />
         <div>
