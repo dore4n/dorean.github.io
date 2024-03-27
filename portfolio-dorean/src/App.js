@@ -4,7 +4,7 @@ import MainIntroduction from './components/MainIntroduction';
 import ExperienceSection from './components/ExperienceSection';
 import EducationSection from './components/EducationSection';
 import Footer from './components/Footer';
-import './index.css';
+import './style/style.css';
 
 function App() {
   return (
