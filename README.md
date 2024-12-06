@@ -1,4 +1,4 @@
-# Portfolio Lucas Santos
+# Portfólio Lucas Santos
 
 Este repositório contém o código-fonte do meu portfolio pessoal construído com React e hospedado usando o GitHub Pages.
 
